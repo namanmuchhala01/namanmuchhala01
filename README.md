@@ -26,7 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" height="55" width="50" /></a>
+    <a href="https://github.com/namanmuchhala01" target="_blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/github.gif" alt="GitHub" height="55" width="55" /></a>
+    <a href="https://www.linkedin.com/in/naman-muchhala-jsg/" target="_blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" height="55" width="50" /></a>
 </p>
 
 <h3 align="left">SKILLS</h3>
@@ -48,32 +49,22 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI" width="48" height="48"/>
+    <img src="https://github.com/user-attachments/assets/fb8e5206-c70b-4ef5-b090-1d42890ed612" alt="Power BI" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" alt="Word" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" width="48" height="48"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanmuchhala01&show_icons=true&locale=en&layout=compact" alt="namanmuchhala01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namanmuchhala01&show_icons=true&locale=en" alt="namanmuchhala01" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namanmuchhala01&" alt="yourusername" /></p>
 
 ## 🌟 GitHub Contributions
 I love contributing to projects! Here are some of my contributions:
 
-[![yourusername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-## 🎖️Holopin Badges
-
-Here are my Holopin badges:
-
-[![My Holopin Badges](https://holopin.me/@yourholopinusername)](https://holopin.io/@yourholopinusername#badges)
-
-## 🎖️ Specific Badge
-[![Holopin Badge](https://holopin.io/userbadge/yourholopinbadgeid)](https://holopin.io/userbadge/yourholopinbadgeid) ![Holopin Logo](https://www.holopin.io/favicon
+[![namanmuchhala01 GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanmuchhala01&show_icons=true&theme=radical)](https://github.com/namanmuchhala01)
