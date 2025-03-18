@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naman+Muchhala!;+Business+Graduate!" />
 </h1>
 
-<h3 align="center">Analytical and results-driven business graduate with expertise in strategy, market expansion, and data-driven decision-making. Experienced in consulting projects and cross-functional team leadership. Passionate about delivering high-impact business solutions through structured problem-solving and strategic insights. Adaptable to multicultural environments, with international experience in India, Italy, and Denmark.</h3>
+<h3 align="center">Analytical and results-driven business graduate with expertise in strategy, market expansion, and      data-driven decision-making. Experienced in consulting projects and cross-functional team leadership. Passionate about delivering high-impact business solutions through structured problem-solving and strategic insights. Adaptable to multicultural environments, with international experience in India, Italy, and Denmark.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
