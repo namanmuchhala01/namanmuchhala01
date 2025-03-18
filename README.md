@@ -51,6 +51,8 @@
     <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" alt="Word" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" width="48" height="48"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" /></p>
