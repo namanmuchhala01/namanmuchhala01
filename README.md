@@ -10,8 +10,7 @@
 
 <br>
 <br>
-
-<img align="right" alt="Business" width="400" src="https://media.giphy.com/media/l41YhW6e8zF88E916/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <div style="margin-top: 3rem">
     <div style="flex: 1; ">
