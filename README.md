@@ -11,6 +11,8 @@
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 📄 Resume
+[Click here to view my resume]([YOUR_RESUME_LINK](https://drive.google.com/file/d/1hrOUZD5Dw-OqGiXTLPigCTbVyO6ubOEP/view?usp=drive_link))
 
 <div style="margin-top: 3rem">
     <div style="flex: 1; ">
