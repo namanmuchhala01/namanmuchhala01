@@ -11,8 +11,9 @@
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-## 📄 Resume
-[Click here to view my resume](https://drive.google.com/file/d/1hrOUZD5Dw-OqGiXTLPigCTbVyO6ubOEP/view?usp=drive_link)
+
+
+
 <div style="margin-top: 3rem">
     <div style="flex: 1; ">
         <p>🚀 Currently participating in the Erasmus Exchange Program at the University of Southern Denmark (SDU) focusing on international business and consulting strategies.</p>
@@ -68,3 +69,6 @@
 I love contributing to projects! Here are some of my contributions:
 
 [![namanmuchhala01 GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanmuchhala01&show_icons=true&theme=radical)](https://github.com/namanmuchhala01)
+
+## 📄 Resume
+[Click here to view my resume](https://drive.google.com/file/d/1hrOUZD5Dw-OqGiXTLPigCTbVyO6ubOEP/view?usp=drive_link)
