@@ -6,17 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourusername" alt="yourusername" /></a> </p>
-
-<br>
-<br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 
 <div style="margin-top: 3rem">
     <div style="flex: 1; ">
-        <p>🚀 Currently participating in the Erasmus Exchange Program at the University of Southern Denmark (SDU) focusing on international business and consulting strategies.</p>
+        <p>🚀 Currently in the Erasmus Exchange Program at the University of Southern Denmark (SDU) focusing on international business and consulting strategies.</p>
         <p>🎓 Pursuing a Master in International Business and Entrepreneurship at the University of Pavia (Italy) with a grade of 93.32 / 110.</p>
         <p>🎓 Holds a Bachelor's of Business Administration (Foreign Trade) from Devi Ahilya University (India) with a grade of 8.66 / 10.</p>
         <p>💼 Experienced in market expansion, strategic planning, and data analysis through internships and projects.</p>
