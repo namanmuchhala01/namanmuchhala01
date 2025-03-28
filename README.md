@@ -4,7 +4,6 @@
 
 <h3 align="center">Analytical and results-driven business graduate with expertise in strategy, market expansion, and      data-driven decision-making. Experienced in consulting projects and cross-functional team leadership. Passionate about delivering high-impact business solutions through structured problem-solving and strategic insights. Adaptable to multicultural environments, with international experience in India, Italy, and Denmark.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
