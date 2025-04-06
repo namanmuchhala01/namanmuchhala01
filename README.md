@@ -66,4 +66,4 @@ I love contributing to projects! Here are some of my contributions:
 [![namanmuchhala01 GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanmuchhala01&show_icons=true&theme=radical)](https://github.com/namanmuchhala01)
 
 ## 📄 Resume
-[Click here to view my resume](https://drive.google.com/file/d/1hrOUZD5Dw-OqGiXTLPigCTbVyO6ubOEP/view?usp=drive_link)
+[Click here to view my resume](https://drive.google.com/file/d/1FF8d1GbQkQFsre9YlMkpUS10kA6uieU9/view?usp=sharing)
