@@ -52,9 +52,7 @@
     <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" width="48" height="48"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanmuchhala01&show_icons=true&locale=en&layout=compact" alt="namanmuchhala01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namanmuchhala01&show_icons=true&locale=en" alt="namanmuchhala01" /></p>
 
 
 
