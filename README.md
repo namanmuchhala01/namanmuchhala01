@@ -11,7 +11,7 @@
 
 <div style="margin-top: 3rem">
     <div style="flex: 1; ">
-        <p>🚀 Currently in the Erasmus Exchange Program at the University of Southern Denmark (SDU) focusing on international business and consulting strategies.</p>
+        <p>🚀 Currently in the Erasmus Exchange Program at the University of Southern Denmark (SDU) focusing on international business and strategies.</p>
         <p>🎓 Pursuing a Master in International Business and Entrepreneurship at the University of Pavia (Italy) with a grade of 93.32 / 110.</p>
         <p>🎓 Holds a Bachelor's of Business Administration (Foreign Trade) from Devi Ahilya University (India) with a grade of 8.66 / 10.</p>
         <p>💼 Experienced in market expansion, strategic planning, and data analysis through internships and projects.</p>
@@ -57,13 +57,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namanmuchhala01&show_icons=true&locale=en" alt="namanmuchhala01" /></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namanmuchhala01&" alt="yourusername" /></p>
-
-## 🌟 GitHub Contributions
-I love contributing to projects! Here are some of my contributions:
-
-[![namanmuchhala01 GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanmuchhala01&show_icons=true&theme=radical)](https://github.com/namanmuchhala01)
 
 ## 📄 Resume
 [Click here to view my resume](https://drive.google.com/file/d/1FF8d1GbQkQFsre9YlMkpUS10kA6uieU9/view?usp=sharing)
