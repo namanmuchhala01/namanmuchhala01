@@ -42,7 +42,7 @@
 [![Market Research](https://img.shields.io/badge/Market_Research-28A745?style=for-the-badge&logo=search&logoColor=white)](https://en.wikipedia.org/wiki/Market_research)
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-FFC107?style=for-the-badge&logo=chart-bar&logoColor=black)](https://en.wikipedia.org/wiki/Data_analysis)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="48" height="48"/>
     <img src="https://github.com/user-attachments/assets/fb8e5206-c70b-4ef5-b090-1d42890ed612" alt="Power BI" width="48" height="48" />
