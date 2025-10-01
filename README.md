@@ -12,7 +12,7 @@
 <div style="margin-top: 3rem">
     <div style="flex: 1; ">
         <p>🚀 Currently in the Erasmus Exchange Program at the University of Southern Denmark (SDU) focusing on international business and strategies.</p>
-        <p>🎓 Pursuing a Master in International Business and Entrepreneurship at the University of Pavia (Italy) with a grade of 93.32 / 110.</p>
+        <p>🎓 Pursuing a Master in International Business and Entrepreneurship at the University of Pavia (Italy) with a grade of 99 / 110.</p>
         <p>🎓 Holds a Bachelor's of Business Administration (Foreign Trade) from Devi Ahilya University (India) with a grade of 8.66 / 10.</p>
         <p>💼 Experienced in market expansion, strategic planning, and data analysis through internships and projects.</p>
         <p>💬 Ask me about business strategy, market analysis, international business, and data-driven decision-making.</p>
