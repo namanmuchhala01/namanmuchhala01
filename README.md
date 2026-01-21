@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naman+Muchhala!;+Business+Graduate!" />
 </h1>
 
-<h3 align="center">Analytical and results-driven business graduate with expertise in strategy, market expansion, and      data-driven decision-making. Experienced in consulting projects and cross-functional team leadership. Passionate about delivering high-impact business solutions through structured problem-solving and strategic insights. Adaptable to multicultural environments, with international experience in India, Italy, and Denmark.</h3>
+<h3 align="center">Product development support professional with hands-on experience in physical product sample validation and supplier coordination. Experienced in reviewing prototypes, documenting quality issues, and supporting production readiness decisions. Strong in Excel-based tracking, reporting, and cross-functional coordination. Open to relocation within Europe.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -11,11 +11,11 @@
 
 <div style="margin-top: 3rem">
     <div style="flex: 1; ">
-        <p>🚀 Currently in the Erasmus Exchange Program at the University of Southern Denmark (SDU) focusing on international business and strategies.</p>
-        <p>🎓 Pursuing a Master in International Business and Entrepreneurship at the University of Pavia (Italy) with a grade of 99 / 110.</p>
+        <p>🚀 Erasmus Exchange Program at the University of Southern Denmark (SDU) focusing on international business and strategies.</p>
+        <p>🎓 Master in International Business and Entrepreneurship at the University of Pavia (Italy) with a grade of 99 / 110.</p>
         <p>🎓 Holds a Bachelor's of Business Administration (Foreign Trade) from Devi Ahilya University (India) with a grade of 8.66 / 10.</p>
         <p>💼 Experienced in market expansion, strategic planning, and data analysis through internships and projects.</p>
-        <p>💬 Ask me about business strategy, market analysis, international business, and data-driven decision-making.</p>
+        <p>💬 Ask me about business strategy, market analysis, international business, Project Management and data-driven decision-making.</p>
         <p>📫 How to reach me: namanmuchhala159@gmail.com</p>
     </div>
 </div>
@@ -53,8 +53,3 @@
 </p>
 
 
-
-
-
-## 📄 Resume
-[Click here to view my resume](https://drive.google.com/file/d/1FF8d1GbQkQFsre9YlMkpUS10kA6uieU9/view?usp=sharing)
